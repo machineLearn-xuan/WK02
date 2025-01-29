@@ -1,4 +1,4 @@
-# WK02
+# WK02 - Complete
 
 ## Exercises with
 
